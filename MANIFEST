@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+ppport.h
+README
+SSCEP.xs
+t/Crypt-SSCEP.t
+lib/Crypt/SSCEP.pm
